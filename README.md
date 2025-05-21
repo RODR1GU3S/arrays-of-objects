@@ -1,5 +1,3 @@
----
-
 # 📊 Java Array Sum Example
 
 Este é um exemplo simples em Java que demonstra como trabalhar com arrays de objetos.
